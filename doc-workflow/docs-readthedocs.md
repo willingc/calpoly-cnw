@@ -25,3 +25,5 @@ for converting documentation from one format to another.
 
 [CommonMark-py maintained by RTD](https://github.com/rtfd/CommonMark-py) |
 [recommonmark](https://github.com/rtfd/recommonmark)
+
+## yaml for RTD settings (beta)
