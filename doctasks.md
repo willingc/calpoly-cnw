@@ -16,3 +16,10 @@
 - [ ] Buildbot for docs (repo, os, pip/conda)
 - [ ] Doc template and doc structure
 - [ ]
+
+# On my radar
+
+- yaml files for RTD config
+- Conversions (commonmark, recommonmark, ipymd by rossant)
+- tox/doc testing
+- 
