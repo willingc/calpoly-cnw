@@ -6,7 +6,13 @@ saver and improves user productivity.
 On a larger scope, having the Jupyter name appear prominently in a repo's
 `README.md` file improves the project's name awareness.
 
-## Recommended elements in Jupyter project repos
+## Recommended elements checklist for Jupyter project repos (GitHub repo and README)
+- [ ] Add a documentation link in repo description (requires GitHub repo
+      privileges)
+- [ ] Add badges to README (Edit `README.md` and submit pull request)
+- [ ] Add resources section to README (Edit `README.md` and submit pull request)
+
+## Recommended elements for Jupyter project repos
 
 ### Link in repo description
 Please include a link to the documentation in the repo's description.
@@ -30,12 +36,5 @@ The *Resources* section includes:
 
 ![Resources section in `README.md`](static/repo-resources.png "Screenshot of resource list at end of README file")
 
-
-## Checklist adding docs to a new or existing GitHub Repo
-
-- [ ] Add a link to documentation in repo description (requires GitHub repo privileges)
-- [ ] Add badges to README (Edit `README.md` and submit pull request)
-- [ ] Add resources section to README (Edit `README.md` and submit pull request)
-
-
 *Dated: 1-4-2016*
+*Revised: 1-6-2016
