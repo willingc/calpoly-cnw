@@ -16,8 +16,8 @@ TODO: Drop in image and text
 ## Basic configuration items on RTD
 TODO: Drop in image and text
 
-## Enabling a GitHub hook to notify RTD to build docs on changes
-TODO: Drop in image and text
+## Enabling a GitHub Services hook to notify RTD to build docs on changes
+See the document: [ReadTheDocs automatic build on GitHub commits](docs-rtd-hook.md)
 
 ## CommonMark and recommonmark
 These two projects are supported by Read the Docs, and they are helpful
