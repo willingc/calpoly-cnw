@@ -1,0 +1,10 @@
+name: testjup_docs
+channels:
+- asmeurer
+dependencies:
+- sphinx==1.3.1
+- pandoc
+- nbformat
+- jupyter_client
+- ipykernel
+- jupyter
