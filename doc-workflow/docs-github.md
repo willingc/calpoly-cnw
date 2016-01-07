@@ -24,7 +24,8 @@ benefit is an easy visual indication if the docs are not rendering properly.
 
 A *Resources* section at the end of the `README.md` gives useful links and
 information to users about the individual project and the larger Project
-Jupyter organization.
+Jupyter organization. Make sure to include any links to the individual project's
+demo notebooks, if available.
 
 The *Resources* section includes:
 
@@ -39,3 +40,4 @@ The *Resources* section includes:
 
 
 *Dated: 1-4-2016*
+*Revised: 1-7-2016*
