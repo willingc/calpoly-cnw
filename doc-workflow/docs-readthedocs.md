@@ -27,3 +27,4 @@ for converting documentation from one format to another.
 [recommonmark](https://github.com/rtfd/recommonmark)
 
 ## yaml for RTD settings (beta)
+[See experiment using conda and yaml](experimental-conda-rtd.md)
