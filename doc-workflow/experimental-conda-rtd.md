@@ -30,4 +30,4 @@ python:
 no caption content or any content in sidebar
 
 - Does not yet support sphinx 1.3.3
-- Fall back and pin sphinx cd ..to 1.3.1
+- Fall back and pin sphinx to 1.3.1
