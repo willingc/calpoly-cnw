@@ -1,6 +1,8 @@
 # Conferences 2016
+
 Carol Willing
 
+## Commitments or Highly Likely
 [Southern California Linux Expo SCALE 14x](https://www.socallinuxexpo.org/scale/14x) January 21-24, 2016 Pasadena, CA
 - Organizing SoCal PyLadies booth
 - Organizing Arts and Music Birds of a Feather
@@ -15,16 +17,24 @@ Carol Willing
 - PyCon Program Committee
 
 [SciPy 2016](http://conference.scipy.org/) July 2016 Austin, TX
+- Diversity Outreach
 
 [Grace Hopper Celebration 2016](http://ghc.anitaborg.org/) October 19-21, 2016 Houston, TX
 - Open Source Day workshop and presenter (likely)
 
-----
-[PyData events] PyData Carolinas?
-[JupyterDay events]
-----
-[Open Source Bridge](https://opensourcebridge.org) June 2016?
-[PyCon Japan 2016](https://pycon.jp/2015/ja/) TBD October 2016?
-Red Hat All Things Open - North Carolina
-Write/Speak/Code Conference - Chicago? Speaker and Mentor at WSC NYC 2015
-Strange Loop(https://www.thestrangeloop.com) September 15-17, 2016 St Louis
+## Data Science Conferences
+- PyData events - PyData Carolinas?
+- OSDS Open Source Data Science
+- O'Reilly Strata
+- JupyterDay events
+
+## Open Source, Python, Outreach
+- [Open Source Bridge](https://opensourcebridge.org) June 2016?
+- [PyCon Japan 2016](https://pycon.jp/2015/ja/) TBD October 2016?
+- Red Hat All Things Open - North Carolina
+- Write/Speak/Code Conference - Chicago? Speaker and Mentor at WSC NYC 2015
+- Strange Loop(https://www.thestrangeloop.com) September 15-17, 2016 St Louis
+- Read the Docs/Write the Docs conference
+
+
+*Date: 01-13-2016*
